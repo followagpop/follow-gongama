@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "url": "https://your-apk-link.com/app-release.apk",
-  "message": "🔧 更新說明：新增防止安裝遊戲、背景偵測修正。"
+  "latestVersion": "1.0.0",
+  "updateUrl": "https://play.google.com/store/apps/details?id=com.example.app",
+  "message": "歡迎使用公阿嬤加速器！目前是最新版本～"
 }
