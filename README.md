@@ -1,1 +1,1 @@
-# gong-ama-updates
+# follow-gongama
